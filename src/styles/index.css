@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.mySuperStyles {
+    text-align: center;
+    background: black;
+    margin: 5px;
+}
+.reloj div {
+    display: inline-block;
+    background: #101010;
+    line-height: 60px;
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+    margin: 3px;
+    border-radius: 20%;
+}
